@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## User Details based on API content data and Function implemented such as search, pagination,sorting,Actions(Edit,Delete)
 
 ## Available Scripts
 

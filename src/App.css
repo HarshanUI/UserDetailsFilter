@@ -36,3 +36,35 @@
     transform: rotate(360deg);
   }
 }
+.mainContainer{
+  display: flex;
+  justify-content: flex-start;
+  gap: 30px;
+  margin: 35px;
+}
+table + ul{
+  display: flex;
+  justify-content: center;
+}
+.bg-sliver {
+  background-color: #9E9E9E;
+}
+.header-text {
+    margin-top: 5px;
+    text-align: center;
+    color: #673AB7;
+}
+.bg-sliver:first-child {
+  padding-left: 8px;
+  padding-top: 13px;
+  color: cornsilk;
+  padding-bottom: 20px;
+}
+.search {
+  display: flex;
+  justify-content: end;
+  margin-bottom: 8px;
+}
+.width-15 {
+  width: 27px;
+}
